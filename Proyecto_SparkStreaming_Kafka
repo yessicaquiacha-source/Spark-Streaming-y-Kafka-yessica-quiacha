@@ -1,0 +1,8 @@
+Proyecto_SparkStreaming_Kafka/
+│
+├── README.md
+├── producer.py
+├── consumer_spark.py
+├── requirements.txt
+└── dataset/
+    └── datos_ejemplo.csv
